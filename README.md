@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sai Srikar Gollamudi, I am currently doing my masters at Indian Institute of Science, Bengaluru, India
 - 👀 I’m interested in contributing to open source projects related to Communication Systems and Computer Networks
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on projects related to ns3
+- 💞️ I’m looking to collaborate on projects related to ns3 simulator and MATLAB
 - 📫 How to reach me: https://www.linkedin.com/in/sai-srikar-gollamudi/
 
 <!---
