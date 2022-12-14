@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sai Srikar Gollamudi, I am currently doing my masters at Indian Institute of Science, Bengaluru, India
+- 👋 Hi, I’m Srikar, I am currently doing my masters at Indian Institute of Science, Bengaluru, India
 - 👀 I’m interested in contributing to open source projects related to Communication Systems and Computer Networks
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: https://www.linkedin.com/in/sai-srikar-gollamudi/
